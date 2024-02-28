@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**feobaby/feobaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by the name Funmi, short for Funmilayo. I'm a software engineer with a knack for exploring various ventures that have contributed to the success of numerous projects!
 
-Here are some ideas to get you started:
+Recently, I completed my Master of Mathematics in Computer Science at the University of Waterloo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For further insights into my career path, feel free to visit my LinkedIn profile!
+
+I have a tech blog on Hashnode called: [Ferns](https://ferns.hashnode.dev/).
+
+I also have a [Portfolio](https://funmiolaiya.notion.site/aa85981f51b84e199520d2429df6f05e?v=9ed871ef8f66430b9a56d069ee8201f7&pvs=74) that I keep updating frequently.
+
+Quick ones:
+
+-  🔭 I’m currently working on a full-stack bill-sharing web app, it's OS and on my profile, I am writing this in different languages, tools, and technologies.
+- 🌱 As of now, I can write code in Js/Ts, Py, and Go, so I’m currently learning Rb!
+- 💬 Ask me about any computer science topics, career paths, and schools!
+- 📫 How to reach me - please send me an inmail on [LinkedIn](https://www.linkedin.com/in/funmilayo-e-olaiya-167490ba/).
+- ⚡ Fun fact: I love YouTube a lot.
+
