@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 I go by the name Funmi, short for Funmilayo. I'm a software engineer with a knack for exploring various ventures that have contributed to the success of numerous projects!
 
