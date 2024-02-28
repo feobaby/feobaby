@@ -13,7 +13,7 @@ I also have a [Portfolio](https://funmiolaiya.notion.site/aa85981f51b84e199520d2
 Quick ones:
 
 -  🔭 I’m currently working on a full-stack bill-sharing web app, it's OS and on my profile, I am writing this in different languages, tools, and technologies.
-- 🌱 As of now, I can write code in Js/Ts, Py, and Go and Rb!
+- 🌱 As of now, I can write code in Js/Ts, Py, Go and Rb!
 - 💬 Ask me about any computer science topics, career paths, and schools!
 - 📫 How to reach me - please send me an inmail on [LinkedIn](https://www.linkedin.com/in/funmilayo-e-olaiya-167490ba/).
 - ⚡ Fun fact: I love YouTube a lot.
