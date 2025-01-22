@@ -8,7 +8,7 @@ If you want more insight into my career path, please visit my LinkedIn profile!
 
 I have a tech blog on Hashnode called: [Ferns](https://ferns.hashnode.dev/).
 
-I also have a [Portfolio]([https://funmiolaiya.notion.site/aa85981f51b84e199520d2429df6f05e?v=9ed871ef8f66430b9a56d069ee8201f7&pvs=74](https://portfolio.funmiolaiya.com/)) that I keep updating frequently.
+I also have a [Portfolio](https://portfolio.funmiolaiya.com/) that I keep updating frequently.
 
 Quick ones:
 
