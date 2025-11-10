@@ -1,8 +1,8 @@
 ### Hi there 👋🏾
 
-- ➡️ My name is Funmi, which is short for Funmilayo. I'm a software engineer with a knack for exploring various ventures that have contributed to the success of numerous projects! I also really love teaching, writing, and mentoring so much!
+- ➡️ My name is Funmi, which is short for Funmilayo. I'm a software engineer with a knack for exploring various ventures that have contributed to the success of numerous projects! I also really enjoy teaching, writing, and mentoring.
 - 🖋️ Recently, I completed my Master of Mathematics in Computer Science at the University of Waterloo.
--  🔭 I’m currently working on an app for my favorite all-time party game called Mafia. Basically, it will act as the game coordinator. Still a WIP -> https://chroma-town.netlify.app/
+-  🔭 I’m currently working on building my Newsletter. Still a WIP -> https://www.fernsology.com/
 - 🌱 As of now, I can speak three languages really well, which are English, Yoruba, and French. I am still really working on my French, though.
 - 💬 Ask me about computer science topics, career paths, and schools!
 - ⚡ Fun fact: I love **YouTube** a lot. I believe it's one of the most valuable products in the world, followed by **Reddit**
